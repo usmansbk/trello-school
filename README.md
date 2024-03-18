@@ -15,7 +15,7 @@ Trello is a collaborative work management app designed to track team projects, h
 
 ## Live Demo
 
-[Live Demo Link](https://sleepy-bose-508e6f.netlify.app/)
+[Live Demo Link](https://trello-lite.vercel.app/)
 
 ## Getting Started
 
